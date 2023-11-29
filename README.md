@@ -30,6 +30,8 @@ I enjoy exploring new technologies and making computer science fun with projects
 ## Ask me about 
   - **My Dissertation**
     -  Analysing Satellite data to detect flooding.
+  - **Mountaineering**
+    
 
 ## How to reach me 
   - **Email**
