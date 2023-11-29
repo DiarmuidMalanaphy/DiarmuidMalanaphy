@@ -29,8 +29,9 @@ I enjoy exploring new technologies and making computer science fun with projects
 
 ## Ask me about 
   - **My Dissertation**
-    -  Analysing Satellite data to detect flooding.
+    - Analysing Satellite data to detect flooding.
   - **Mountaineering**
+    - I'm the IT Officer of the hiking club in Lancaster.
     
 
 ## How to reach me 
