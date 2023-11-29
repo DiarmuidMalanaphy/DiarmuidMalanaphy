@@ -1,4 +1,7 @@
 # Hi there, I'm Diarmuid! 👋
+I'm a passionate developer with a keen interest in Computer Vision and Full Stack Development.
+I enjoy exploring new technologies and making computer science fun with projects.
+
 
 - 🌱 I’m currently learning PyTorch, and enhancing my full stack ability.
 - 👯 I’m looking to collaborate on Computer Vision projects and Front-End development.
@@ -12,21 +15,21 @@
      - **📝 HTML** 
      - **⚙️ Javascript**
      - **🎨 CSS** 
-     - **Django** - Used for building website and as an experiment used it for multiplayer in a personal project.
+     - **🌿 Django** -  Used for building websites; also experimented with it for multiplayer in a personal project.
 
 ## My Projects
-  - **GameJamEchoes** - Two day Game Jam completed after exams with a few friends.
+  - **GameJamEchoes** - A two-day Game Jam completed with friends post-exams.
     - https://github.com/pigeon4752/GameJamEchoes
-  - **Generate Word** - Three day project to investigate how to use android studio and familiarise myself with file-management on Android.
+  - **Generate Word** - A three-day project to explore Android Studio and file-management on Android.
     - https://github.com/DiarmuidMalanaphy/Generate-word
-  - **Star Wars Repo** - Investigation on how to use DOT.net to develop my own API.
+  - **Star Wars Repo** - Investigation on using DOT.net to develop a custom API.
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
-  - **Secrets of Hopkin** - First hackathon to create a Cyber-security point and click game.
+  - **Secrets of Hopkin** - My first hackathon project, a Cyber-security themed point and click game.
     - https://github.com/DiarmuidMalanaphy/The-Secrets-of-Hopkin
 
 ## Ask me about 
   - **My Dissertation**
-    -  Practical use of Computer Vision
+    -  Analysing Satellite data to detect flooding.
 
 ## How to reach me 
   - **Email**
