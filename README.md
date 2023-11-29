@@ -22,7 +22,7 @@ I enjoy exploring new technologies and making computer science fun with projects
     - https://github.com/pigeon4752/GameJamEchoes
   - **Generate Word** - A three-day project to explore Android Studio and file-management on Android.
     - https://github.com/DiarmuidMalanaphy/Generate-word
-  - **Star Wars Repo** - Investigation on using DOT.net to develop a custom API.
+  - **Star Wars API** - Investigation on using DOT.net to develop a custom API.
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
   - **Secrets of Hopkin** - My first hackathon project, a Cyber-security themed point and click game.
     - https://github.com/DiarmuidMalanaphy/The-Secrets-of-Hopkin
