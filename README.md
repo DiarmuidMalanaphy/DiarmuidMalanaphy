@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning PyTorch, API development and 
 <!--
 **DiarmuidMalanaphy/DiarmuidMalanaphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **https://stackedit.io/app#
 
-- 🌱 I’m currently learning PyTorch, API development and 
+
 
 
 Here are some ideas to get you started:
