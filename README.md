@@ -25,13 +25,13 @@
     - https://github.com/DiarmuidMalanaphy/The-Secrets-of-Hopkin
 
 ## Ask me about 
-  My Dissertation
+  - **My Dissertation**
     -  Practical use of Computer Vision
 
 ## How to reach me 
-  Email
+  - **Email**
     - diarmuidmalanaphy@proton.me
-  LinkedIn
+  - **LinkedIn**
     - https://www.linkedin.com/in/diarmuidmalanaphy
 
   
