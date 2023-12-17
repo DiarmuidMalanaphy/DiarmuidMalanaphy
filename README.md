@@ -26,6 +26,8 @@ I enjoy exploring new technologies and making computer science fun with projects
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
   - **Thermal Detection** - Preparation project to determine the viability of a filter based thermal human detection system.
     - https://github.com/DiarmuidMalanaphy/Thermal-detection
+  - **Hiking Bot** - Using the discord API to automate part of the role for IT Officer
+    - https://github.com/DiarmuidMalanaphy/Hiking-Bot
       
 
 ## Ask me about 
