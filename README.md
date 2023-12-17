@@ -24,8 +24,6 @@ I enjoy exploring new technologies and making computer science fun with projects
     - https://github.com/DiarmuidMalanaphy/Generate-word
   - **Star Wars API** - Investigation on using DOT.net to develop a custom API.
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
-  - **Secrets of Hopkin** - My first hackathon project, a Cyber-security themed point and click game.
-    - https://github.com/DiarmuidMalanaphy/The-Secrets-of-Hopkin
   - **Thermal Detection** - Preparation project to determine the viability of a filter based thermal human detection system.
     - https://github.com/DiarmuidMalanaphy/Thermal-detection
       
