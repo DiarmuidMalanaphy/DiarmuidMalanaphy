@@ -11,6 +11,7 @@ I enjoy exploring new technologies and making computer science fun with projects
   - **🎯 Dart**  - Used Flutter for Cross-Platform development.
   - **💻 C** - Proficient in C with a focus on File Management.
   - **☕ Java** - Well-versed in Java for various applications, including backend development and Android apps.
+  - **🦍 Go** - Built an API and backend server in Golang.
   - **🌐 Web Development Technologies**
      - **📝 HTML** 
      - **⚙️ Javascript**
