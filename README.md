@@ -20,6 +20,8 @@ I enjoy exploring new technologies and making computer science fun with projects
 ## My Projects
   - **GameJamEchoes** - A two-day Game Jam completed with friends post-exams.
     - https://github.com/pigeon4752/GameJamEchoes
+  - **EchoesNetworking** - An extension on the Game Jam to add networking.
+    - https://github.com/DiarmuidMalanaphy/EchoesNetworking
   - **Generate Word** - A three-day project to explore Android Studio and file-management on Android using Room DB.
     - https://github.com/DiarmuidMalanaphy/Generate-word
   - **Star Wars API** - Investigation on using DOT.net to develop a custom API.
