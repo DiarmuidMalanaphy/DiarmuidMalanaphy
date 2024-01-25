@@ -25,7 +25,7 @@ I enjoy exploring new technologies and making computer science fun with projects
     - https://github.com/DiarmuidMalanaphy/EchoesNetworking
   - **Generate Word** - A three-day project to explore Android Studio and file-management on Android using Room DB.
     - https://github.com/DiarmuidMalanaphy/Generate-word
-  - **Streaming** - Made a networked video streaming system
+  - **Streaming** - A networked video streaming system
     - https://github.com/DiarmuidMalanaphy/Streaming 
   - **Star Wars API** - Investigation on using DOT.net to develop a custom API.
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
