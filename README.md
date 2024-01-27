@@ -19,14 +19,14 @@ I enjoy exploring new technologies and making computer science fun with projects
      - **🌿 Django** -  Used for building websites; also experimented with it for multiplayer in a personal project.
 
 ## My Projects
+  - **Streaming** - A networked video streaming system
+    - https://github.com/DiarmuidMalanaphy/Streaming 
   - **GameJamEchoes** - A two-day Game Jam completed with friends post-exams.
     - https://github.com/pigeon4752/GameJamEchoes
   - **EchoesNetworking** - An extension on the Game Jam to add networking.
     - https://github.com/DiarmuidMalanaphy/EchoesNetworking
   - **Generate Word** - A three-day project to explore Android Studio and file-management on Android using Room DB.
     - https://github.com/DiarmuidMalanaphy/Generate-word
-  - **Streaming** - A networked video streaming system
-    - https://github.com/DiarmuidMalanaphy/Streaming 
   - **Star Wars API** - Investigation on using DOT.net to develop a custom API.
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
   - **Thermal Detection** - Preparation project to determine the viability of a filter based thermal human detection system.
