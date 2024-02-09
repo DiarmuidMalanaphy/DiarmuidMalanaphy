@@ -1,5 +1,5 @@
 # Hi there, I'm Diarmuid! 👋
-I'm a passionate developer with a keen interest in Computer Vision and Full Stack Development.
+I'm a passionate developer with a keen interest in Computer Vision and applying Computer Science in fun ways.
 I enjoy exploring new technologies and making computer science fun with projects.
 
 
