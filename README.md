@@ -2,12 +2,10 @@
 I'm a passionate developer with a keen interest in Computer Vision and applying Computer Science in fun ways.
 I enjoy exploring new technologies and making computer science fun with projects.
 
-
-- 🌱 I’m currently learning PyTorch, and enhancing my full stack ability.
-- 👯 I’m looking to collaborate on Computer Vision projects and Front-End development.
+- 👯 I’m looking to collaborate on Computer Vision projects.
 
 ## Proficiencies
-  - **🐍 Python** - Experienced in Python for data analysis, scripting and ML development.
+  - **🐍 Python** - Experienced in Python for data analysis, scripting and ML development using PyTorch.
   - **🎯 Dart**  - Used Flutter for Cross-Platform development.
   - **💻 C** - Proficient in C with a focus on File Management.
   - **☕ Java** - Well-versed in Java for various applications, including backend development and Android apps.
