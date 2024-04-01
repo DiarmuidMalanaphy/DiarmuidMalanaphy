@@ -18,7 +18,9 @@ I enjoy exploring new technologies and making computer science fun with projects
 
 ## My Projects
   - **Streaming** - A networked video streaming system
-    - https://github.com/DiarmuidMalanaphy/Streaming 
+    - https://github.com/DiarmuidMalanaphy/Streaming
+  - **Particle Accelerator Simulator** - A simulation of the internals of a particle accelerator
+    - https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator
   - **GameJamEchoes** - A two-day Game Jam completed with friends post-exams.
     - https://github.com/pigeon4752/GameJamEchoes
   - **EchoesNetworking** - An extension on the Game Jam to add networking.
