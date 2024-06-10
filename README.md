@@ -42,7 +42,7 @@ I have split the projects into two types, easy run and non easy run projects. Ea
     - Easy Run ✅
   - **Hiking Bot** - Using the discord API to automate part of the role for IT Officer
     - https://github.com/DiarmuidMalanaphy/Hiking-Bot
-    - Easy Run ✅
+    - Easy Run ❎
   - **Risk.py** - An extensible framework to allow the development of agents for the Risk Board Game
     - https://github.com/DiarmuidMalanaphy/Risk.py
     - Easy Run ✅  
