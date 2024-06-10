@@ -16,25 +16,36 @@ I enjoy exploring new technologies and making computer science fun with projects
      - **🎨 CSS** 
      - **🌿 Django** -  Used for building websites; also experimented with it for multiplayer in a personal project.
 
+
 ## My Projects
+I have split the projects into two types, easy run and non easy run projects. Easy run projects have an easy .bat file to run and a description of how you should run it if you cannot run bat files .
   - **Streaming** - A networked video streaming system
     - https://github.com/DiarmuidMalanaphy/Streaming
+    - Easy Run ✅
   - **Particle Accelerator Simulator** - A simulation of the internal of a particle accelerator
     - https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator
+    - Easy Run ✅
   - **GameJamEchoes** - A two-day Game Jam completed with friends post-exams.
     - https://github.com/pigeon4752/GameJamEchoes
+    - Easy Run ✅
   - **EchoesNetworking** - An extension on the Game Jam to add networking.
     - https://github.com/DiarmuidMalanaphy/EchoesNetworking
+    - Easy Run ✅
   - **Generate Word** - A three-day project to explore Android Studio and file-management on Android using Room DB.
     - https://github.com/DiarmuidMalanaphy/Generate-word
+    - Easy Run ❎
   - **Star Wars API** - Investigation on using DOT.net to develop a custom API.
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
+    - Easy Run ❎
   - **Thermal Detection** - Preparation project to determine the viability of a filter based thermal human detection system.
     - https://github.com/DiarmuidMalanaphy/Thermal-detection
+    - Easy Run ✅
   - **Hiking Bot** - Using the discord API to automate part of the role for IT Officer
     - https://github.com/DiarmuidMalanaphy/Hiking-Bot
+    - Easy Run ✅
   - **Risk.py** - An extensible framework to allow the development of agents for the Risk Board Game
-    - https://github.com/DiarmuidMalanaphy/Risk.py    
+    - https://github.com/DiarmuidMalanaphy/Risk.py
+    - Easy Run ✅  
       
 
 ## Ask me about 
