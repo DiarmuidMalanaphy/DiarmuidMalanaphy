@@ -40,6 +40,7 @@
 
 ### **☕ Java**
 - **Backend Development**: Designed and implemented robust backend systems.
+  - I mostly just use Java for my university projects which are not available here.
 
 ### 👨🏻‍🦯 Go
 - **API Development**: Built RESTful APIs and backend services with Golang.
