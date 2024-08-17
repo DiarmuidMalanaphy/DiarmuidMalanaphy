@@ -69,13 +69,13 @@ My projects are categorized into **Easy Run ✅** and **Non-Easy Run ❎**. Easy
 - **[Diarmuid's GTD App](https://github.com/DiarmuidMalanaphy/Task-Manager)**: A networked task management application.
 - **[Streaming](https://github.com/DiarmuidMalanaphy/Streaming)**: A networked video streaming system.
 - **[Particle Accelerator Simulator](https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator)**: Simulates the internals of a particle accelerator.
-- **[NetworkTools](https://github.com/DiarmuidMalanaphy/networktools)**: A homebrew server builder (TCP/UDP) to facilitate message transmission over the internet in small-scale Golang applications.
 - **[GameJamEchoes](https://github.com/pigeon4752/GameJamEchoes)**: A two-day Game Jam project completed with friends post-exams.
 - **[EchoesNetworking](https://github.com/DiarmuidMalanaphy/EchoesNetworking)**: Extended the Game Jam project to add networking capabilities.
 - **[Thermal Detection](https://github.com/DiarmuidMalanaphy/Thermal-detection)**: Explored the viability of a filter-based thermal human detection system.
 - **[Risk.py](https://github.com/DiarmuidMalanaphy/Risk.py)**: An extensible framework for developing agents for the Risk board game.
 
 ### Non-Easy Run
+- **[NetworkTools](https://github.com/DiarmuidMalanaphy/networktools)**: A homebrew server builder (TCP/UDP) to facilitate message transmission over the internet in small-scale Golang applications.
 - **[Star Wars API](https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo)**: Investigated the use of .NET to develop a custom API.
 - **[Hiking Bot](https://github.com/DiarmuidMalanaphy/Hiking-Bot)**: Utilizes the Discord API to automate tasks related to my role as IT Officer.
 
