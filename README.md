@@ -19,9 +19,9 @@
 - **Machine Learning**: Developed and trained models using PyTorch for diverse applications.
 - **Scripting & Automation**: Proficient in writing scripts for automation and creating custom tools.
     - **Relevant Projects**:
+      - [Particle Accelerator Simulator](https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator)
       - [Risk.py](https://github.com/DiarmuidMalanaphy/Risk.py)
       - [Thermal Detection](https://github.com/DiarmuidMalanaphy/Thermal-detection)
-      - [Particle Accelerator Simulator](https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator)
       - [Hiking Bot](https://github.com/DiarmuidMalanaphy/Hiking-Bot)
       - [GameJamEchoes](https://github.com/pigeon4752/GameJamEchoes)
 
