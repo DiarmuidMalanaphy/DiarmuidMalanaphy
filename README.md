@@ -1,4 +1,62 @@
 # Hi there, I'm Diarmuid! 👋
+I'm a passionate developer with a keen interest in **Computer Vision** and making **Computer Science** fun through innovative projects. I love exploring new technologies and applying them creatively to solve problems.
+
+## 🚀 Proficiencies
+- **🐍 Python**: 
+  - **Data Analysis**: Experienced in handling, processing, and analyzing large datasets.
+  - **Machine Learning**: Developed and trained models using PyTorch for various applications.
+  - **Scripting & Automation**: Expertise in writing scripts for automation and custom tools.
+  
+- **🎯 Dart & Flutter**: 
+  - **Cross-Platform Development**: Created high-performance mobile apps with Flutter.
+  - **UI/UX Design**: Built intuitive and responsive user interfaces for seamless user experiences.
+
+- **💻 C**: 
+  - **Systems Programming**: Specialized in file management and low-level systems programming.
+  - **Performance Optimization**: Focused on writing efficient code for resource-constrained environments.
+
+- **☕ Java**: 
+  - **Backend Development**: Designed and implemented backend systems.
+  
+- **🦍 Go**: 
+  - **API Development**: Built RESTful APIs and backend services with Golang.
+  - **Concurrency & Performance**: Leveraged Go’s concurrency model for building high-performance servers.
+
+- **🌐 Web Development**:
+  - **Frontend**: 
+    - **📝 HTML**: Structured web content with semantic markup.
+    - **⚙️ JavaScript**: Developed interactive features and dynamic user interfaces.
+    - **🎨 CSS**: Styled and designed responsive web pages.
+  - **Backend**: 
+    - **🌿 Django**: Developed full-stack web applications; experimented with multiplayer features in personal projects.
+
+## 🛠️ Projects
+I've organized my projects into **Easy Run** and **Non-Easy Run** categories. Easy Run projects come with a `.bat` file or other executables for quick execution and instructions for other setups.
+
+### Easy Run ✅
+- **[Diarmuid's GTD App](https://github.com/DiarmuidMalanaphy/Task-Manager)**: A networked task management application.
+- **[Streaming](https://github.com/DiarmuidMalanaphy/Streaming)**: A networked video streaming system.
+- **[Particle Accelerator Simulator](https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator)**: Simulates the internals of a particle accelerator.
+- **[GameJamEchoes](https://github.com/pigeon4752/GameJamEchoes)**: A two-day Game Jam project completed with friends post-exams.
+- **[EchoesNetworking](https://github.com/DiarmuidMalanaphy/EchoesNetworking)**: Extended the Game Jam project to add networking capabilities.
+- **[Thermal Detection](https://github.com/DiarmuidMalanaphy/Thermal-detection)**: A project to explore the viability of a filter-based thermal human detection system.
+- **[Risk.py](https://github.com/DiarmuidMalanaphy/Risk.py)**: An extensible framework for developing agents for the Risk board game.
+
+### Non-Easy Run ❎
+- **[Star Wars API](https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo)**: A project investigating the use of .NET to develop a custom API.
+- **[Hiking Bot](https://github.com/DiarmuidMalanaphy/Hiking-Bot)**: Utilizes the Discord API to automate tasks related to my role as IT Officer.
+
+## 💬 Ask me about
+- **My Dissertation**: Analyzing satellite data to detect flooding.
+- **Mountaineering**: As the IT Officer of the hiking club in Lancaster, I combine my love for tech and the outdoors.
+
+## 📫 How to reach me
+- **Email**: [diarmuidmalanaphy@proton.me](mailto:diarmuidmalanaphy@proton.me)
+- **LinkedIn**: [linkedin.com/in/diarmuidmalanaphy](https://www.linkedin.com/in/diarmuidmalanaphy)
+
+
+
+# Hi there, I'm Diarmuid! 👋
 I'm a passionate developer with a keen interest in Computer Vision and applying Computer Science in fun ways.
 I enjoy exploring new technologies and making computer science fun with projects.
 
@@ -63,27 +121,8 @@ I have split the projects into two types, easy run and non easy run projects. Ea
 
 
 
-<!--
-**DiarmuidMalanaphy/DiarmuidMalanaphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**https://stackedit.io/app#
 
 
 
 
 
-
-
-## My Skills
-
-Include a list or icons of your skills, programming languages, frameworks, or tools.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a project to convert 
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
