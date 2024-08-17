@@ -2,7 +2,7 @@
 
 I'm Diarmuid, a developer. 
 
-## 🚀 Technical Proficiencies
+## Technical Proficiencies
 - **Python**: 
   - **Data Analysis**: Expertise in handling, processing, and analyzing large datasets.
   - **Machine Learning**: Developed and trained models using PyTorch for diverse applications.
