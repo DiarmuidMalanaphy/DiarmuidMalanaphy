@@ -3,18 +3,18 @@
 ---
 
 ## Table of Contents
-1. [Technical Proficiencies](#technical-proficiencies)
-2. [Projects](#projects)
-    - [Easy Run](#easy-run)
-    - [Non-Easy Run](#non-easy-run)
-3. [Ask Me About](#ask-me-about)
-4. [How to Reach Me](#how-to-reach-me)
+1. [Technical Proficiencies 🛠️](#technical-proficiencies)
+2. [Projects 🖥️](#projects)
+    - [Easy Run ✅](#easy-run)
+    - [Non-Easy Run ❎](#non-easy-run)
+3. [Ask Me About 📱](#ask-me-about)
+4. [How to Reach Me 🌐](#how-to-reach-me)
 
 ---
 
 ## Technical Proficiencies
 
-### Python
+### 🐍 Python
 - **Data Analysis**: Expertise in handling, processing, and analyzing large datasets.
 - **Machine Learning**: Developed and trained models using PyTorch for diverse applications.
 - **Scripting & Automation**: Proficient in writing scripts for automation and creating custom tools.
@@ -25,23 +25,23 @@
       - [Hiking Bot](https://github.com/DiarmuidMalanaphy/Hiking-Bot)
       - [GameJamEchoes](https://github.com/pigeon4752/GameJamEchoes)
 
-### Dart & Flutter
+### 🎯 Dart & Flutter
 - **Cross-Platform Development**: Created high-performance mobile applications with Flutter.
 - **UI/UX Design**: Developed intuitive and responsive user interfaces for seamless experiences.
     - **Relevant Projects**:
       - [Diarmuid's GTD App](https://github.com/DiarmuidMalanaphy/Task-Manager)
       - [Streaming](https://github.com/DiarmuidMalanaphy/Streaming)
 
-### C
+### 💻 C
 - **Performance Optimization**: Specialized in writing efficient C code, including embedding it within Python to enhance performance.
     - **Relevant Projects**:
       - [Risk.py](https://github.com/DiarmuidMalanaphy/Risk.py)
       - [Particle Accelerator Simulator](https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator)
 
-### Java
+### **☕ Java**
 - **Backend Development**: Designed and implemented robust backend systems.
 
-### Go
+### 👨🏻‍🦯 Go
 - **API Development**: Built RESTful APIs and backend services with Golang.
 - **Concurrency & Performance**: Leveraged Go’s concurrency model to develop high-performance servers.
     - **Relevant Projects**:
@@ -50,21 +50,22 @@
       - [Diarmuid's GTD App](https://github.com/DiarmuidMalanaphy/Task-Manager)
       - [NetworkTools](https://github.com/DiarmuidMalanaphy/networktools)
 
-### Web Development
+### 🐢 Web Development
 - **Frontend**:
     - **HTML**: Structured web content with semantic markup.
     - **JavaScript**: Developed interactive features and dynamic user interfaces.
     - **CSS**: Styled and designed responsive web pages.
 - **Backend**:
-    - **Django**: Developed full-stack web applications; experimented with multiplayer features in personal projects.
+    - ** 🐦 Django**: Developed full-stack web applications; experimented with multiplayer features in personal projects.
 
 ---
 
 ## Projects
 
-My projects are categorized into **Easy Run** and **Non-Easy Run**. Easy Run projects include a `.bat` file or other executables for quick setup and execution, along with instructions for manual setups.
+My projects are categorized into **Easy Run ✅** and **Non-Easy Run ❎**. Easy Run projects include a `.bat` file or other executables for quick setup and execution, along with instructions for manual setups.
 
 ### Easy Run
+
 - **[Diarmuid's GTD App](https://github.com/DiarmuidMalanaphy/Task-Manager)**: A networked task management application.
 - **[Streaming](https://github.com/DiarmuidMalanaphy/Streaming)**: A networked video streaming system.
 - **[Particle Accelerator Simulator](https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator)**: Simulates the internals of a particle accelerator.
