@@ -4,11 +4,11 @@
 
 ## 🗂️ Table of Contents
 1. [**Technical Proficiencies**](#technical-proficiencies)
-2. [**🛠️ Projects**](#projects)
-    - [**Easy Run ✅**](#easy-run-✅)
-    - [**Non-Easy Run ❎**](#non-easy-run-❎)
-3. [**💬 Ask Me About**](#ask-me-about)
-4. [**📫 How to Reach Me**](#how-to-reach-me)
+2. [**🛠️ Projects**](#-projects)
+    - [**Easy Run ✅**](#easy-run-)
+    - [**Non-Easy Run ❎**](#non-easy-run-)
+3. [**💬 Ask Me About**](#-ask-me-about)
+4. [**📫 How to Reach Me**](#-how-to-reach-me)
 
 ---
 
@@ -88,5 +88,9 @@ My projects are categorized into **Easy Run** and **Non-Easy Run**. Easy Run pro
 
 ## 📫 How to Reach Me
 - **Email**: [diarmuidmalanaphy@proton.me](mailto:diarmuidmalanaphy@proton.me)
+- **LinkedIn**: [linkedin.com/in/diarmuidmalanaphy](https://www.linkedin.com/in/diarmuidmalanaphy)
+
+
+
 - **LinkedIn**: [linkedin.com/in/diarmuidmalanaphy](https://www.linkedin.com/in/diarmuidmalanaphy)
 
