@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile
-
 I'm Diarmuid, a developer. 
 
 ## Technical Proficiencies
