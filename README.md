@@ -17,6 +17,9 @@ I enjoy exploring new technologies and making computer science fun with projects
 
 ## My Projects
 I have split the projects into two types, easy run and non easy run projects. Easy run projects have an easy .bat file to run and a description of how you should run it if you cannot run bat files .
+  - **Diarmuid's GTD App** - A networked task management application
+    - https://github.com/DiarmuidMalanaphy/Task-Manager
+    - Easy Run  ✅
   - **Streaming** - A networked video streaming system
     - https://github.com/DiarmuidMalanaphy/Streaming
     - Easy Run ✅
@@ -29,9 +32,6 @@ I have split the projects into two types, easy run and non easy run projects. Ea
   - **EchoesNetworking** - An extension on the Game Jam to add networking.
     - https://github.com/DiarmuidMalanaphy/EchoesNetworking
     - Easy Run ✅
-  - **Generate Word** - A three-day project to explore Android Studio and file-management on Android using Room DB.
-    - https://github.com/DiarmuidMalanaphy/Generate-word
-    - Easy Run ❎
   - **Star Wars API** - Investigation on using DOT.net to develop a custom API.
     - https://github.com/DiarmuidMalanaphy/ITPI-Star-wars-repo
     - Easy Run ❎
