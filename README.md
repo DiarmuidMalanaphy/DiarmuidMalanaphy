@@ -58,6 +58,7 @@
     - **CSS**: Styled and designed responsive web pages.
 - **Backend**:
     - ** 🐦 Django**: Developed full-stack web applications; experimented with multiplayer features in personal projects.
+- Projects for this are not available as I worked in these professionally.
 
 ---
 
