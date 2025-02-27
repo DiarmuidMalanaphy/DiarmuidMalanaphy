@@ -37,6 +37,12 @@
     - **Relevant Projects**:
       - [Risk.py](https://github.com/DiarmuidMalanaphy/Risk.py)
       - [Particle Accelerator Simulator](https://github.com/DiarmuidMalanaphy/Particle-Accelerator-Simulator)
+### 🚀 C++
+- **Scientific Computing**: Experience in writing High performance modelling code.
+    - **Relevant Projects**:
+        - [N-Body Simulation](https://github.com/DiarmuidMalanaphy/N-Body-Simulation)
+- **Image Processing** : Experienced in reading through image processing and ML libraries, typically written in C++ to understand the functionality behind an operation.
+    - No projects for this, as mostly just experimentally done.    
 
 ### **☕ Java**
 - **Backend Development**: Designed and implemented robust backend systems.
